@@ -1,0 +1,64 @@
+Error: T2 - 253,253,253 - 28,2464,2992 - 58,100,105,115,112,108,97,121,68,111,110,97,116,111,114,58,35,54,32,87,105,110,116,101,114,53,49,10,
+java.lang.NullPointerException
+        at com.dreamscape.GameClient.n(Unknown Source)
+        at com.dreamscape.GameClient.W(Unknown Source)
+        at com.dreamscape.GameClient.update(Unknown Source)
+        at com.dreamscape.H.run(Unknown Source)
+        at com.dreamscape.GameClient.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+Error: T2 - 253,253,253 - 32,2464,2992 - 58,100,105,115,112,108,97,121,68,111,110,97,116,111,114,58,35,55,32,80,111,48,110,101,100,32,83,116,114,57,57,10,
+java.lang.NullPointerException
+        at com.dreamscape.GameClient.n(Unknown Source)
+        at com.dreamscape.GameClient.W(Unknown Source)
+        at com.dreamscape.GameClient.update(Unknown Source)
+        at com.dreamscape.H.run(Unknown Source)
+        at com.dreamscape.GameClient.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+Error: T2 - 253,253,253 - 30,2464,2992 - 58,100,105,115,112,108,97,121,68,111,110,97,116,111,114,58,35,56,32,75,105,108,108,101,114,32,79,110,101,10,
+java.lang.NullPointerException
+        at com.dreamscape.GameClient.n(Unknown Source)
+        at com.dreamscape.GameClient.W(Unknown Source)
+        at com.dreamscape.GameClient.update(Unknown Source)
+        at com.dreamscape.H.run(Unknown Source)
+        at com.dreamscape.GameClient.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+Error: T2 - 253,253,253 - 30,2464,2992 - 58,100,105,115,112,108,97,121,68,111,110,97,116,111,114,58,35,57,32,83,117,112,101,114,108,117,110,100,55,10,
+java.lang.NullPointerException
+        at com.dreamscape.GameClient.n(Unknown Source)
+        at com.dreamscape.GameClient.W(Unknown Source)
+        at com.dreamscape.GameClient.update(Unknown Source)
+        at com.dreamscape.H.run(Unknown Source)
+        at com.dreamscape.GameClient.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+Error: T2 - 253,253,253 - 27,2464,2992 - 58,100,105,115,112,108,97,121,68,111,110,97,116,111,114,58,35,49,48,32,67,106,98,101,97,114,10,
+java.lang.NullPointerException
+        at com.dreamscape.GameClient.n(Unknown Source)
+        at com.dreamscape.GameClient.W(Unknown Source)
+        at com.dreamscape.GameClient.update(Unknown Source)
+        at com.dreamscape.H.run(Unknown Source)
+        at com.dreamscape.GameClient.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+Error: T2 - 253,253,253 - 20,2464,2992 - 58,98,117,105,108,100,68,111,110,97,116,111,114,80,97,110,101,108,58,10,
+9774, true
+9775, true
+9776, false
+10030, true
+10031, true
+10032, true
+10286, true
+10287, true
+10288, true
+29048, 10815
+java.io.IOException: buffer overflow
+        at com.dreamscape.aH.a(Unknown Source)
+        at com.dreamscape.GameClient.W(Unknown Source)
+        at com.dreamscape.GameClient.update(Unknown Source)
+        at com.dreamscape.H.run(Unknown Source)
+        at com.dreamscape.GameClient.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+dropClient1 - java.io.IOException: buffer overflow
+new response:2
+java.lang.ArrayIndexOutOfBoundsException: 100000
+        at com.dreamscape.g.writeShort(Unknown Source)
+        at com.dreamscape.GameClient.w(Unknown Source)
+        at com.dreamscape.GameClient.doAction(Unknown Source)
